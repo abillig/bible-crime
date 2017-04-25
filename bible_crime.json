@@ -1,0 +1,87 @@
+crimes = {"sexual": {
+  "Incest": {},
+  "Victim of Rape":
+    {"Were you engaged at the time?":
+      {"No":
+        {"punishmentObj": {"punishment": "Marry the rapist.",
+          "explanation": "If a man find a damsel that is a virgin, which is not betrothed,
+          and lay hold on her, and lie with her, and they be found; Then the man that lay
+          with her shall give unto the damsel's father fifty shekels of silver, and she shall
+          be his wife; because he hath humbled her, he may not put her away all his days.",
+          "source_url": "http://biblehub.com/deuteronomy/22-29.htm",
+          "source": "(Deuteronomy 22:28-29)"}
+          }
+        ,
+        "Yes":
+      {"Where Did It Happen?":
+        {"In the fields":
+          {"punishmentObj":
+            {"punishment": "Oh the fields? That's not a sin.",
+              "explanation": "If a man find a betrothed damsel in the field, and the man
+              force her, and lie with her: then the man only that lay with her shall die.
+              But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death.",
+              "source_url": "http://biblehub.com/deuteronomy/22-25.htm",
+              "source": "(Deuteronomy 22:25-26)"}
+          },
+          "In the city":
+          {"punishmentObj":
+            {"punishment": "Stoned to death.",
+            "explanation": "If a damsel that is a virgin be betrothed unto an husband, and
+            a man find her in the city, and lie with her; Then ye shall bring them both out
+            unto the gate of that city, and ye shall stone them with stones that they die;
+            the damsel, because she cried not, being in the city; and the man, because he hath
+            humbled his neighbour's wife: so thou shalt put away evil from among you.",
+            "source_url": "http://biblehub.com/deuteronomy/22-24.htm",
+            "source": "(Deuteronomy 22:23-24)"}
+              }
+            }
+          }
+          }
+      },
+  "Bestiality": {
+    "punishmentObj":
+      {"punishment": "Death. And the animal dies too.",
+      "explanation": "And if a man lie with a beast, he shall surely be put to death: and ye
+      shall slay the beast. And if a woman approach unto any beast, and lie down thereto,
+      thou shalt kill the woman, and the beast: they shall surely be put to death; their
+      blood shall be upon them.",
+      "source_url": "http://biblehub.com/leviticus/20-16.htm",
+      "source": "(Leviticus 20:15-16)"}
+
+  },
+  "Adultery": {"punishmentObj":
+    {"punishment": "Death.",
+    "explanation": "If a man be found lying with a woman married to an husband, then
+    they shall both of them die, both the man that lay with the woman, and the woman:
+    so shalt thou put away evil from Israel.",
+    "source_url": "http://biblehub.com/deuteronomy/22-22.htm",
+    "source": "(Deuteronomy 22:22)"}
+  },
+  "Intimacy during menstruation": {"punishmentObj":
+    {"punishment": "Banishment.",
+    "explanation": "And if a man shall lie with a woman having her sickness, and
+    shall uncover her nakedness; he hath discovered her fountain, and she hath
+    uncovered the fountain of her blood: and both of them shall be cut off from among their people.",
+    "source_url": "http://biblehub.com/leviticus/20-18.htm",
+    "source": "(Leviticus 20:18)"}
+  },
+  "Lied about being a virgin":
+    {"punishmentObj":
+      {"punishment": "Stoned to death",
+      "explanation": "Then they shall bring out the damsel to the door of her father's house,
+        and the men of her city shall stone her with stones that she die: because she hath wrought
+        folly in Israel, to play the whore in her father's house: so shalt thou put evil away
+        from among you.",
+      "source_url": "http://biblehub.com/deuteronomy/22-21.htm",
+      "source": "(Deuteronomy 22:21)"}},
+  "Homosexuality":
+  {"punishmentObj":
+    {"punishment": "Death",
+      "explanation": "If a man also lie with mankind, as he lieth with a woman, both of them
+      have committed an abomination: they shall surely be put to death;
+      their blood shall be upon them.",
+    "source_url": "http://biblehub.com/leviticus/20-13.htm",
+    "source": "(Leviticus 20:13)"}
+    }},
+"Food": {}
+}
