@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 
+require("babel-polyfill");
+
 var crimes = {
   "headline": "Sinner! What is the nature of your sin?",
   "options": {
@@ -177,7 +179,7 @@ var crimes = {
   "Food": {"headline": "What did you do with your food?!",
     "options": {
       "Ate blood": {"punishmentObj":
-        {"punishment": "Gross! Banished!",
+        {"punishment": "Banished!",
           "explanation": "I will even set my face against that soul that eateth blood, and will cut him off from among his people.",
         "source_url": "http://biblehub.com/leviticus/17-10.htm",
         "source": "(Leviticus 17:10)"}
@@ -189,7 +191,7 @@ var crimes = {
         "source": "(Exodus 12:15)"}
       }
     }},
-  "God Crime": {"headline": "Go on...",
+  "Religious": {"headline": "Go on...",
     "options": {
       "Witchcraft": {"punishmentObj":
         {"punishment": "Death!",
